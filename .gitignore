@@ -1,0 +1,4 @@
+.next/
+node_modules/.next/
+node_modules/
+# ignora arquivos de log
