@@ -4,12 +4,4 @@ function Home() {
   );
 }
 
-function teste() {
-  console.log("Função de teste funcionando!");
-}
-
-function teste2() {
-  console.log("indentação errada");
-}
-
 export default Home;
